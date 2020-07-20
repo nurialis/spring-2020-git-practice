@@ -1,6 +1,8 @@
 Toyota
 Mazda
 Honda
+Audi
+Tesla
 BMW
 Porsche
 Mercedes-Benz
