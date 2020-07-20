@@ -7,9 +7,7 @@ BMW
 Porsche
 Mercedes-Benz
 Bentley
-
 Jeep
-
 Hyundai
 Nissan
 Lexus
