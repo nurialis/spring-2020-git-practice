@@ -4,6 +4,7 @@ green
 blue
 yellow
 black
-###browni
+purple
+white
 orange
 
